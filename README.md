@@ -1,16 +1,16 @@
 # Hi there, I'm Biki 👋
 
-Welcome to my GitHub profile! I'm an enthusiastic **Django developer** who loves building web applications and exploring new technologies. I’m currently learning and growing my skills to become a full-stack developer.
+Welcome to my GitHub profile! I'm an enthusiastic, emerging software developer who loves building web applications and exploring new technologies. I’m currently learning and growing my skills to become a full-stack developer.
 
 ---
 
 ### 🚀 About Me:
 
-- 🔭 Currently working on **Personal Blog** using **Django**
+- 🔭 Currently working on **Personal Portfolio** using **Django**
 - 🌱 I’m currently learning **Advanced Django**, **React.js**
 - 👯 I’m looking to collaborate on **Web Development** projects
 - 💬 Ask me about **Django, Python, and Web Development**
-- 📫 How to reach me: **bikiemail@example.com**
+- 📫 How to reach me: **gbikram4554@example.com**
 - ⚡ Fun fact: I love reading tech blogs and solving coding challenges.
 
 ---
