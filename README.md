@@ -43,9 +43,9 @@ Welcome to my GitHub profile! I'm an enthusiastic, emerging software developer w
 
 ### 🌟 Featured Projects:
 
-- **[Project Name 1]([https://github.com/link-to-project-1](https://github.com/iambiki-git/eCommerce-System))** - Short description of project
-- **[Project Name 2]([https://github.com/link-to-project-2](https://github.com/iambiki-git/blog))** - Short description of project
-- **[Project Name 3]([https://github.com/link-to-project-3](https://github.com/iambiki-git/project))** - Short description of project
+- **[fashionMart]((https://github.com/iambiki-git/eCommerce-System))** - Short description of project
+- **[PersonalBlog]((https://github.com/iambiki-git/blog))** - Short description of project
+- **[OnlineStore]((https://github.com/iambiki-git/project))** - Short description of project
 
 ---
 
