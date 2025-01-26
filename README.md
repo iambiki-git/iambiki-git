@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm an enthusiastic, emerging software developer w
 ### 🚀 About Me:
 
 - 🔭 Currently working on **Personal Portfolio** using **Django**
-- 🌱 I’m currently learning **Advanced Django**, **React.js**
+- 🌱 I’m currently learning **Advanced Django**
 - 👯 I’m looking to collaborate on **Web Development** projects
 - 💬 Ask me about **Django, Python, and Web Development**
 - 📫 How to reach me: **gbikram4554@example.com**
