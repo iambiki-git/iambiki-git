@@ -1,5 +1,5 @@
 <h2 align="center">
-  # Hi there, I'm Biki 👋
+  hi there, I'm Biki 👋
 </h2>
 
 Welcome to my GitHub profile! I'm an **Aspiring Software Developer** with a passion for building dynamic web applications using **Django** and **Python**. Currently, I'm diving into both **frontend** and **backend** technologies to create full-stack projects.
