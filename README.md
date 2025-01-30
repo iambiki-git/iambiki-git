@@ -1,13 +1,13 @@
-<p align="center">
+<h2 align="center">
   # Hi there, I'm Biki 👋
-</p>
+</h2>
 
-Welcome to my GitHub profile! I'm an **Aspiring Backend Developer** with a passion for building dynamic web applications using **Django** and **Python**. Currently, I'm diving into both **frontend** and **backend** technologies to create full-stack projects.
+Welcome to my GitHub profile! I'm an **Aspiring Software Developer** with a passion for building dynamic web applications using **Django** and **Python**. Currently, I'm diving into both **frontend** and **backend** technologies to create full-stack projects.
 
 ---
 
 ### 🚀 What I'm Working On:
-- **Currently building**: Personal portfolio with **Django**  
+- **Currently building**: KONNEKT with **Django**  
 - **Learning**: Advanced **Django** and exploring **JavaScript**  
 - **Looking to collaborate**: On full-stack **web development** projects
 
@@ -27,15 +27,10 @@ Welcome to my GitHub profile! I'm an **Aspiring Backend Developer** with a passi
 
 ---
 
-### 🌟 Featured Projects:
-- **[Personal Portfolio](https://github.com/iambiki-git/portfolio)** – A portfolio built with **Django**  
-- **[FashionMart](https://github.com/iambiki-git/eCommerce)** – An eCommerce system for fashion products
-
----
 
 ## 📫 Let's Connect
-I'm always open to collaborating on interesting projects. Feel free to reach out to me via [email](mailto:jane.doe@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/jane-doe/).
+I'm always open to collaborating on interesting projects. Feel free to reach out to me via [email](mailto:jane.doe@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/bikram-gurung-1749b9319/).
 
 ---
 
-⭐️ From [Jane Doe](https://github.com/jane-doe)
+⭐️ From [Biki](https://github.com/iambiki-git)
