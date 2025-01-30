@@ -31,10 +31,9 @@ Welcome to my GitHub profile! I'm an **Aspiring Backend Developer** with a passi
 
 ---
 
-### 📫 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bikram-gurung-1749b9319/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iambiki-git)
+## 📫 Let's Connect
+I'm always open to collaborating on interesting projects. Feel free to reach out to me via [email](mailto:jane.doe@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/jane-doe/).
 
 ---
 
-**Thanks for visiting my profile! Let's build something amazing together!**
+⭐️ From [Jane Doe](https://github.com/jane-doe)
