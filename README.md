@@ -1,4 +1,6 @@
-# Hi there, I'm Biki 👋
+<p align="center">
+  # Hi there, I'm Biki 👋
+</p>
 
 Welcome to my GitHub profile! I'm an **Aspiring Backend Developer** with a passion for building dynamic web applications using **Django** and **Python**. Currently, I'm diving into both **frontend** and **backend** technologies to create full-stack projects.
 
